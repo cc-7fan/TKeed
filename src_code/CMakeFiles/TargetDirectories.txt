@@ -1,0 +1,3 @@
+C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/CMakeFiles/src_code.dir
+C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/CMakeFiles/edit_cache.dir
+C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/CMakeFiles/rebuild_cache.dir

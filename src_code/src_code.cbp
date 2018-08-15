@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="src_code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="src_code">
+				<Option output="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/src_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\E_running\VS2015\VC\INCLUDE"/>
+					<Add directory="C:\E_running\VS2015\VC\ATLMFC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.10150.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 src_code"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="src_code/fast">
+				<Option output="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/src_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\E_running\VS2015\VC\INCLUDE"/>
+					<Add directory="C:\E_running\VS2015\VC\ATLMFC\INCLUDE"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.10150.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\8.1\include\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 src_code/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\demon\Desktop\TKeed-master\TKeed-master\src_code\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/epoll.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/epoll.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/error.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/http.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/http.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/http_parse.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/http_parse.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/http_request.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/http_request.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/list.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/main.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/priority_queue.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/priority_queue.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/rio.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/rio.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/threadpool.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/threadpool.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/timer.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/timer.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/util.c">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/util.h">
+			<Option target="src_code"/>
+		</Unit>
+		<Unit filename="C:/Users/demon/Desktop/TKeed-master/TKeed-master/src_code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
