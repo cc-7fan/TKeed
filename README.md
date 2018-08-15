@@ -4,12 +4,6 @@
 
 ![info](./datum/info.png)
 
-## Dev Document
-
-| Part Ⅰ | Part Ⅱ | Part Ⅲ | Part Ⅳ | Part Ⅴ | Part Ⅵ | Part Ⅷ | Part Ⅸ |
-| :--------: | :---------: | :---------: | :---------: | :---------: | :---------: |:--------:| :--------:|:--------:|
----
-## Dev Environment
 
 **Dev Tool**
 
