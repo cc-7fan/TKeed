@@ -1,7 +1,5 @@
 # TKeed WebServer
 
-**TKeed is a high performance HTTP WebServer uses the Reactor model. Code normative and functional scalability are close to the industry level. The project will be updated until feature have been completed. Have a fun. SYSU, TeeKee.**
-
 ![info](./datum/info.png)
 
 
