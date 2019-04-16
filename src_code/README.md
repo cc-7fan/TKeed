@@ -69,8 +69,6 @@
 - v5.0实现反向代理（安全性及负载均衡）
 
 ---
-
-[![Build Status](https://travis-ci.org/linw7/TKeed.svg?branch=master)](https://travis-ci.org/linw7/TKeed)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
 ---
