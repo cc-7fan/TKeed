@@ -57,6 +57,4 @@
 
     - 使用状态机解析HTTP协议，非简单字符串匹配方式解析请求
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
-
 ---
