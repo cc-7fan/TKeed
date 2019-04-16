@@ -59,11 +59,6 @@
 
     - 使用状态机解析HTTP协议，非简单字符串匹配方式解析请求
 
-- v1.1修改了CPU负载较高问题，修改后1000并发各线程（4worker）CPU使用率10%左右。
-
----
-
-[![Build Status](https://travis-ci.org/linw7/TKeed.svg?branch=master)](https://travis-ci.org/linw7/TKeed)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
 ---
